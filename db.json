@@ -16,7 +16,29 @@
         },
         {
           "idAuteur": "2",
-          "text": "Ça va bien, merci ! Et toi ?"
+          "text": "Ça va bien ?"
+        },
+        {
+          "idAuteur": "1",
+          "text": "bien ?"
+        },
+        {
+          "idAuteur": "2",
+          "text": "merci Et toi ?"
+        },
+        {
+          "id": "1750066272638",
+          "text": "jh",
+          "idAuteur": "1",
+          "date": "2025-06-16T09:31:12.638Z",
+          "lu": false
+        },
+        {
+          "id": "1750066862481",
+          "text": "rgdm",
+          "idAuteur": "1",
+          "date": "2025-06-16T09:41:02.481Z",
+          "lu": false
         }
       ],
       "contacs": []
@@ -62,6 +84,98 @@
         }
       ],
       "contacs": []
+    },
+    {
+      "id": "1749878265634",
+      "groupe": true,
+      "Nom": "sdjsd",
+      "image": "/profile2.png",
+      "membres": [
+        "1",
+        "2",
+        "1749907512634",
+        "3"
+      ],
+      "Admin": [
+        "1",
+        "2"
+      ],
+      "messages": [
+        {
+          "idAuteur": "1",
+          "text": "Bonjour, comment ça va ?"
+        },
+        {
+          "idAuteur": "3",
+          "text": "Ça va bien, merci ! Et toi ?"
+        },
+        {
+          "idAuteur": "1749878265634",
+          "text": "Ça va bien, merci ! Et vous ?"
+        },
+        {
+          "idAuteur": "1",
+          "text": "Bonjour, comment ça va ?"
+        },
+        {
+          "idAuteur": "3",
+          "text": "Ça va bien, merci ! Et toi ?"
+        }
+      ]
+    },
+    {
+      "id": "1749907524235",
+      "groupe": true,
+      "Nom": "wewee",
+      "image": "/profile2.png",
+      "membres": [
+        "2",
+        "1"
+      ],
+      "Admin": "1",
+      "messages": []
+    }
+  ],
+  "twoSMSUsers": [
+    {
+      "id": "1750125487844",
+      "text": " elwe quqehw",
+      "idAuteur": "1",
+      "idRecepteur": "2",
+      "date": "2025-06-17T01:58:07.844Z",
+      "lu": false,
+      "epingle": false,
+      "modifiable": true
+    },
+    {
+      "id": "1750074908859",
+      "text": "fffffff",
+      "idAuteur": "1",
+      "idRecepteur": "3",
+      "date": "2025-06-16T11:55:08.859Z",
+      "lu": false,
+      "epingle": false,
+      "modifiable": true
+    },
+    {
+      "id": "1750131749714",
+      "text": "sdksd",
+      "idAuteur": "1",
+      "idRecepteur": "2",
+      "date": "2025-06-17T03:42:29.714Z",
+      "lu": false,
+      "epingle": false,
+      "modifiable": false
+    },
+    {
+      "id": "1750218487058",
+      "text": "er",
+      "idAuteur": "1",
+      "idRecepteur": "3",
+      "date": "2025-06-18T03:48:07.058Z",
+      "lu": false,
+      "epingle": false,
+      "modifiable": true
     }
   ]
 }
